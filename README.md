@@ -32,7 +32,7 @@ Google Colabを利用するため、Googleアカウントをご用意くださ�
 
 **`lesson01.ipynb`**
 
-→ **[Google Colabで開く](https://colab.research.google.com/drive/1mf2uNXaVlf1tZY1eC-at8NIE0zcZ2prx#scrollTo=s10gQTDYGqeX)**
+→ **[Google Colabで開く]([▶ Google Colabで開く]([Google Colab](https://colab.research.google.com/github/mhirayama/python-study-group/blob/main/01_python/lesson01.ipynb)))**
 
 ---
 
